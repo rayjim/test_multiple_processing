@@ -1,0 +1,345 @@
+[I 17:55:59.032 NotebookApp] Serving notebooks from local directory: /Users/raybao/Documents/workspace/data_anaysis
+[I 17:55:59.032 NotebookApp] 0 active kernels 
+[I 17:55:59.032 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=6ce3560497476af20bb31ab986de0c4f82616fb4420c2e99
+[I 17:55:59.032 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:55:59.033 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=6ce3560497476af20bb31ab986de0c4f82616fb4420c2e99
+[I 17:55:59.601 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 17:56:07.007 NotebookApp] Creating new notebook in 
+[I 17:56:07.649 NotebookApp] Kernel started: 70ae5f84-fad8-4717-ba73-b9116231a7fa
+[I 17:58:07.524 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:16:10.430 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:16:18.109 NotebookApp] Kernel interrupted: 70ae5f84-fad8-4717-ba73-b9116231a7fa
+[I 18:16:18.814 NotebookApp] Kernel interrupted: 70ae5f84-fad8-4717-ba73-b9116231a7fa
+[I 18:16:19.468 NotebookApp] Kernel interrupted: 70ae5f84-fad8-4717-ba73-b9116231a7fa
+[I 18:16:31.686 NotebookApp] Kernel interrupted: 70ae5f84-fad8-4717-ba73-b9116231a7fa
+[I 18:16:38.149 NotebookApp] Kernel shutdown: 70ae5f84-fad8-4717-ba73-b9116231a7fa
+[I 18:17:01.468 NotebookApp] The port 8888 is already in use, trying another port.
+[I 18:17:01.477 NotebookApp] Serving notebooks from local directory: /Users/raybao/Documents/workspace/data_anaysis
+[I 18:17:01.477 NotebookApp] 0 active kernels 
+[I 18:17:01.477 NotebookApp] The Jupyter Notebook is running at: http://localhost:8889/?token=53fb0c384d2362e5b1f1317b64c54e9d9ad8d75b70fe2165
+[I 18:17:01.477 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 18:17:01.477 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=53fb0c384d2362e5b1f1317b64c54e9d9ad8d75b70fe2165
+[I 18:17:01.811 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 18:17:04.336 NotebookApp] Kernel started: d8e8b62d-04cc-4a6b-a3f0-f666459da644
+[I 18:19:04.321 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:47:02.233 NotebookApp] Saving file at /Untitled.ipynb
+[W 18:48:29.471 NotebookApp] WebSocket ping timeout after 90004 ms.
+[I 18:50:16.143 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:52:07.095 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:54:07.092 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:56:22.005 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:45:15.737 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:02:26.608 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:10:50.265 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:21:14.113 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:25:15.108 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:29:25.104 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:46:13.154 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:48:14.425 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:50:14.421 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:52:17.912 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:02:54.032 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:04:54.031 NotebookApp] Saving file at /Untitled.ipynb
+[I 00:06:54.024 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:05:20.958 NotebookApp] Creating new notebook in 
+[I 01:05:21.152 NotebookApp] Kernel started: a1f3e882-8815-44f3-b1f5-27116a451557
+[I 01:07:21.147 NotebookApp] Saving file at /multiple_process.ipynb
+[I 01:09:21.142 NotebookApp] Saving file at /multiple_process.ipynb
+[I 01:11:21.135 NotebookApp] Saving file at /multiple_process.ipynb
+[W 01:13:22.442 NotebookApp] WebSocket ping timeout after 120004 ms.
+[I 01:13:36.367 NotebookApp] Malformed HTTP message from ::1: Content-Length too long
+[I 01:14:17.874 NotebookApp] Kernel interrupted: a1f3e882-8815-44f3-b1f5-27116a451557
+[I 01:14:30.174 NotebookApp] Kernel interrupted: a1f3e882-8815-44f3-b1f5-27116a451557
+[I 01:15:32.276 NotebookApp] Malformed HTTP message from ::1: Content-Length too long
+[I 01:17:30.059 NotebookApp] Saving file at /multiple_process.ipynb
+[I 01:19:30.037 NotebookApp] Saving file at /multiple_process.ipynb
+[I 01:21:30.034 NotebookApp] Saving file at /multiple_process.ipynb
+[I 01:23:30.171 NotebookApp] Saving file at /multiple_process.ipynb
+[I 01:25:30.044 NotebookApp] Saving file at /multiple_process.ipynb
+[I 01:26:59.667 NotebookApp] Saving file at /multiple_process.ipynb
+[I 01:27:30.018 NotebookApp] Saving file at /multiple_process.ipynb
+[I 01:29:30.101 NotebookApp] Saving file at /multiple_process.ipynb
+[I 01:30:17.204 NotebookApp] Kernel interrupted: a1f3e882-8815-44f3-b1f5-27116a451557
+[I 01:30:51.155 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel a1f3e882-8815-44f3-b1f5-27116a451557 restarted
+Traceback (most recent call last):
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 174, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/__main__.py", line 3, in <module>
+    app.launch_new_instance()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 657, in launch_instance
+    app.initialize(argv)
+  File "<decorator-gen-120>", line 2, in initialize
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 445, in initialize
+    self.init_sockets()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 235, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 177, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 495, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5653)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:10014)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 01:31:12.473 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel a1f3e882-8815-44f3-b1f5-27116a451557 restarted
+Traceback (most recent call last):
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 174, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/__main__.py", line 3, in <module>
+    app.launch_new_instance()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 657, in launch_instance
+    app.initialize(argv)
+  File "<decorator-gen-120>", line 2, in initialize
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 445, in initialize
+    self.init_sockets()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 235, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 177, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 495, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5653)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:10014)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 01:31:18.481 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel a1f3e882-8815-44f3-b1f5-27116a451557 restarted
+Traceback (most recent call last):
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 174, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/__main__.py", line 3, in <module>
+    app.launch_new_instance()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 657, in launch_instance
+    app.initialize(argv)
+  File "<decorator-gen-120>", line 2, in initialize
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 445, in initialize
+    self.init_sockets()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 235, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 177, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 495, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5653)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:10014)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 01:31:30.493 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel a1f3e882-8815-44f3-b1f5-27116a451557 restarted
+Traceback (most recent call last):
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 174, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/__main__.py", line 3, in <module>
+    app.launch_new_instance()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 657, in launch_instance
+    app.initialize(argv)
+  File "<decorator-gen-120>", line 2, in initialize
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 445, in initialize
+    self.init_sockets()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 235, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 177, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 495, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5653)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:10014)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 01:31:36.503 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel a1f3e882-8815-44f3-b1f5-27116a451557 restarted
+Traceback (most recent call last):
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 174, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/__main__.py", line 3, in <module>
+    app.launch_new_instance()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 657, in launch_instance
+    app.initialize(argv)
+  File "<decorator-gen-120>", line 2, in initialize
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 445, in initialize
+    self.init_sockets()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 235, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 177, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 495, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5653)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:10014)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 01:31:42.512 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel a1f3e882-8815-44f3-b1f5-27116a451557 restarted
+Traceback (most recent call last):
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 174, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/__main__.py", line 3, in <module>
+    app.launch_new_instance()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 657, in launch_instance
+    app.initialize(argv)
+  File "<decorator-gen-120>", line 2, in initialize
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 445, in initialize
+    self.init_sockets()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 235, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 177, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 495, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5653)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:10014)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 01:31:51.522 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel a1f3e882-8815-44f3-b1f5-27116a451557 restarted
+Traceback (most recent call last):
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 174, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/__main__.py", line 3, in <module>
+    app.launch_new_instance()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 657, in launch_instance
+    app.initialize(argv)
+  File "<decorator-gen-120>", line 2, in initialize
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 445, in initialize
+    self.init_sockets()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 235, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 177, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 495, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5653)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:10014)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 01:31:54.530 NotebookApp] KernelRestarter: restarting kernel (2/5)
+WARNING:root:kernel a1f3e882-8815-44f3-b1f5-27116a451557 restarted
+Traceback (most recent call last):
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 174, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/__main__.py", line 3, in <module>
+    app.launch_new_instance()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 657, in launch_instance
+    app.initialize(argv)
+  File "<decorator-gen-120>", line 2, in initialize
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 445, in initialize
+    self.init_sockets()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 235, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 177, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 495, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5653)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:10014)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 01:31:57.539 NotebookApp] KernelRestarter: restarting kernel (3/5)
+WARNING:root:kernel a1f3e882-8815-44f3-b1f5-27116a451557 restarted
+Traceback (most recent call last):
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 174, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/__main__.py", line 3, in <module>
+    app.launch_new_instance()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 657, in launch_instance
+    app.initialize(argv)
+  File "<decorator-gen-120>", line 2, in initialize
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 445, in initialize
+    self.init_sockets()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 235, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 177, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 495, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5653)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:10014)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 01:32:00.548 NotebookApp] KernelRestarter: restarting kernel (4/5)
+WARNING:root:kernel a1f3e882-8815-44f3-b1f5-27116a451557 restarted
+Traceback (most recent call last):
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 174, in _run_module_as_main
+    "__main__", fname, loader, pkg_name)
+  File "/Users/raybao/anaconda2/lib/python2.7/runpy.py", line 72, in _run_code
+    exec code in run_globals
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/__main__.py", line 3, in <module>
+    app.launch_new_instance()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 657, in launch_instance
+    app.initialize(argv)
+  File "<decorator-gen-120>", line 2, in initialize
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 445, in initialize
+    self.init_sockets()
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 235, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/Users/raybao/anaconda2/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 177, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 495, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5653)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:10014)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[W 01:32:03.556 NotebookApp] KernelRestarter: restart failed
+[W 01:32:03.556 NotebookApp] Kernel a1f3e882-8815-44f3-b1f5-27116a451557 died, removing from map.
+ERROR:root:kernel a1f3e882-8815-44f3-b1f5-27116a451557 restarted failed!
+[W 01:32:03.710 NotebookApp] Kernel deleted before session
+[W 01:32:03.710 NotebookApp] 410 DELETE /api/sessions/ccef5ce3-50b4-4071-8c96-b9cb1a0f11c3 (::1) 117.84ms referer=http://localhost:8889/notebooks/multiple_process.ipynb
+[C 01:32:05.240 NotebookApp] received signal 15, stopping
+[I 01:32:05.286 NotebookApp] Shutting down kernels
+[I 01:32:05.905 NotebookApp] Kernel shutdown: d8e8b62d-04cc-4a6b-a3f0-f666459da644
+[C 01:32:09.337 NotebookApp] received signal 15, stopping
+[I 01:32:09.380 NotebookApp] Shutting down kernels
+[I 12:22:15.719 NotebookApp] Serving notebooks from local directory: /Users/raybao/Documents/workspace/data_anaysis
+[I 12:22:15.755 NotebookApp] 0 active kernels 
+[I 12:22:15.755 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=564ee1d35ae1c22d4b90dcdcec0415c2b061becea5bbdc4b
+[I 12:22:15.755 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:22:15.756 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=564ee1d35ae1c22d4b90dcdcec0415c2b061becea5bbdc4b
+[I 12:22:16.928 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 12:22:24.861 NotebookApp] Kernel started: 459b9eb8-253d-48ed-a6f9-d45adeb41769
+[I 12:24:24.096 NotebookApp] Saving file at /multiple_process.ipynb
+[I 12:26:03.019 NotebookApp] Kernel interrupted: 459b9eb8-253d-48ed-a6f9-d45adeb41769
+[I 12:26:20.734 NotebookApp] Kernel interrupted: 459b9eb8-253d-48ed-a6f9-d45adeb41769
+[I 12:26:21.510 NotebookApp] Kernel interrupted: 459b9eb8-253d-48ed-a6f9-d45adeb41769
+[I 12:26:24.072 NotebookApp] Saving file at /multiple_process.ipynb
+[I 12:26:25.369 NotebookApp] Kernel interrupted: 459b9eb8-253d-48ed-a6f9-d45adeb41769
+[I 12:26:30.847 NotebookApp] Kernel interrupted: 459b9eb8-253d-48ed-a6f9-d45adeb41769
+[I 12:28:24.079 NotebookApp] Saving file at /multiple_process.ipynb
+[I 14:56:22.874 NotebookApp] Kernel interrupted: 459b9eb8-253d-48ed-a6f9-d45adeb41769
+[I 14:56:25.031 NotebookApp] Kernel interrupted: 459b9eb8-253d-48ed-a6f9-d45adeb41769
+[I 14:56:42.277 NotebookApp] Kernel interrupted: 459b9eb8-253d-48ed-a6f9-d45adeb41769
+[I 14:56:48.046 NotebookApp] Kernel shutdown: 459b9eb8-253d-48ed-a6f9-d45adeb41769
+[I 14:56:57.551 NotebookApp] Kernel started: 3c4d04d7-bf96-4e0f-a480-1e1377404c11
+[I 14:58:57.539 NotebookApp] Saving file at /multiple_process.ipynb
