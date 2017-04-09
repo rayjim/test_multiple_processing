@@ -343,3 +343,31 @@ ERROR:root:kernel a1f3e882-8815-44f3-b1f5-27116a451557 restarted failed!
 [I 14:56:48.046 NotebookApp] Kernel shutdown: 459b9eb8-253d-48ed-a6f9-d45adeb41769
 [I 14:56:57.551 NotebookApp] Kernel started: 3c4d04d7-bf96-4e0f-a480-1e1377404c11
 [I 14:58:57.539 NotebookApp] Saving file at /multiple_process.ipynb
+[I 15:00:57.530 NotebookApp] Saving file at /multiple_process.ipynb
+[I 15:02:57.538 NotebookApp] Saving file at /multiple_process.ipynb
+[I 15:12:57.510 NotebookApp] Saving file at /multiple_process.ipynb
+[I 15:14:57.498 NotebookApp] Saving file at /multiple_process.ipynb
+[I 15:16:57.493 NotebookApp] Saving file at /multiple_process.ipynb
+[I 15:18:57.490 NotebookApp] Saving file at /multiple_process.ipynb
+[I 15:20:57.502 NotebookApp] Saving file at /multiple_process.ipynb
+[I 15:22:57.479 NotebookApp] Saving file at /multiple_process.ipynb
+[I 15:24:57.477 NotebookApp] Saving file at /multiple_process.ipynb
+[I 15:26:57.471 NotebookApp] Saving file at /multiple_process.ipynb
+[C 15:49:06.903 NotebookApp] received signal 15, stopping
+[I 15:49:06.903 NotebookApp] Shutting down kernels
+[I 15:49:07.935 NotebookApp] Kernel shutdown: 3c4d04d7-bf96-4e0f-a480-1e1377404c11
+[I 15:51:51.445 NotebookApp] Serving notebooks from local directory: /Users/raybao/Documents/workspace/data_anaysis
+[I 15:51:51.457 NotebookApp] 0 active kernels 
+[I 15:51:51.457 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=c92b895d2646dfe03123a56540a7027d52e41607dafce777
+[I 15:51:51.457 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:51:51.458 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=c92b895d2646dfe03123a56540a7027d52e41607dafce777
+[I 15:51:57.272 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 15:51:57.485 NotebookApp] 302 GET / (::1) 0.49ms
+[I 15:52:22.403 NotebookApp] Kernel started: 2093700a-bc54-444e-bb56-8dc9504e95ed
+[I 15:54:22.404 NotebookApp] Saving file at /multiple_process.ipynb
+[I 15:56:22.396 NotebookApp] Saving file at /multiple_process.ipynb
+[I 15:58:22.395 NotebookApp] Saving file at /multiple_process.ipynb
